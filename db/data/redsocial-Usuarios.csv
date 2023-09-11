@@ -1,0 +1,3 @@
+ID,username,password,estatus,amigos,nombre,apellido,paisDeOrigen,genero,telefono,fechaDeNacimiento,email_usuario,email_dominio,email_full,perfil_ID
+ee271990-871c-11eb-8dcd-0242ac130003,carlosmag,magca658,true,250,Carlos,Magno,ARG,2,1589563632,2093-10-15,carlosmag95,@gmail.com,carlosmag95@gmail.com,20c7c2a0-871d-11eb-8dcd-0242ac130003
+abc7feaa-871e-11eb-8dcd-0242ac130003,lucastez,lutez637,true,250,Lucas,Tez,BRZ,2,1556689741,2097-06-25,lucastez,@gmail.com,lucastez@gmail.com,4243f388-8720-11eb-8dcd-0242ac130003
